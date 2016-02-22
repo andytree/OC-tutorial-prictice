@@ -30,13 +30,13 @@
  
  */
 
-//@interface Person : NSObject
+@interface Person : NSObject
 //// 对象方法声明
-//- (void)test;
+- (void)test;
 //// 类方法声明
 //+ (void)demo;
 //
-//@end
+@end
 
 @implementation Person : NSObject
 // 对象方法实现
